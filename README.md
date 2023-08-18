@@ -26,7 +26,7 @@ O desafio será implementar um e-commerce para venda de canecas e camisetas que 
 - [ ] Finalizar compra
 
 # Pre-requisitos
-- (Node.js)[https://nodejs.org/en/]s
+- [Node.js](https://nodejs.org/en/download/)
   - Recomendamos a versão LTS
 
 ## 📋 Instruções
