@@ -54,12 +54,12 @@ Além dos requisitos levantados acima, iremos olhar para os seguintes critérios
 - Habilidade de resolver problemas de forma eficientes
 - Preocupação com usabilidade
 - Preocupação com acessibilidade
-- Testes e2e
 - Padrões de código
 - Padrão de commits (_Conventional_)
 
 ## 😎 Seria legal
 - Fazer deploy na vercel ou em outro local de sua preferência e disponibilizar um link de visualização, se necessário utilize esse servidor para a API Fastify:  https://lapes-frontend-challenge.vercel.app/
+- Testes e2e
 - Testes unitários
 - Utilização de cache do Next.js
 
