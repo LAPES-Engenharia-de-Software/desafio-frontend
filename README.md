@@ -41,7 +41,7 @@ Chegou a hora de colocar a mão na massa! 🎉
 - Utilize o local storage para gerenciar o carrinho
 - Por favor, inclua no README as instruções de instalação do projeto
 - Sinta-se livre para incluir quaisquer observações
-- Consuma nossa **API Fastify** rodando o comando `yarn start` na pasta `api`
+- Consuma nossa **API Fastify** rodando o comando `npm run start` na pasta `api`
 
 ## ✔️ Critérios de Avaliação
 
@@ -55,9 +55,9 @@ Além dos requisitos levantados acima, iremos olhar para os seguintes critérios
 - Preocupação com usabilidade
 - Preocupação com acessibilidade
 - Padrões de código
-- Padrão de commits (_Conventional_)
 
 ## 😎 Seria legal
+- Padrão de commits (_Conventional_)
 - Fazer deploy na vercel ou em outro local de sua preferência e disponibilizar um link de visualização, se necessário utilize esse servidor para a API Fastify:  https://lapes-frontend-challenge.vercel.app/
 - Testes e2e
 - Testes unitários
